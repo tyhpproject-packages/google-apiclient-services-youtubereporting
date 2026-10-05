@@ -1,0 +1,19 @@
+{
+    "name": "tyhpdef/google-apiclient-services-youtubereporting",
+    "description": "Tyhp type definitions for google/apiclient-services 0.459.0.",
+    "type": "metapackage",
+    "license": "Apache-2.0",
+    "version": "0.459.0",
+    "keywords": [
+        "dev",
+        "static analysis"
+    ],
+    "require": {
+        "tyhpdef/google-apiclient-services-youtubereporting-impl": "~0.459.0.0"
+    },
+    "extra": {
+        "tyhp": {
+            "impl": "tyhpdef/google-apiclient-services-youtubereporting-impl"
+        }
+    }
+}
